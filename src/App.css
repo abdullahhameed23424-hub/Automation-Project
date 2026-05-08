@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+button.btn-style {
+  @apply py-0.5 w-25 rounded-lg border-pink-400 border-2 bg-pink-900 text-2xl text-pink-100;
+}

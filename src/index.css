@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+button.btn-style {
+  @apply py-2 px-4 w-fit rounded-lg border-pink-400 border-2 bg-pink-900 text-xl text-pink-100;
+}
